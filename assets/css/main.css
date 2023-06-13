@@ -2714,3 +2714,18 @@ section {
 .top-picks a:hover{
   color: var(--color-primary);
 }
+.top-banner{
+  padding: 0;
+}
+.top-banner .swiper-button-next, 
+.top-banner .swiper-button-prev {
+  background: #fff;
+  color: var(--color-default);
+  width: 35px;
+  height: 35px;
+}
+.top-banner .swiper-button-next:after, 
+.top-banner .swiper-button-prev:after {
+  font-size: 23px;
+  line-height: 35px;
+}

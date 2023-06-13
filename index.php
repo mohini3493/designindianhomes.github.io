@@ -2,6 +2,44 @@
 
   <main id="main">
 
+  <!-- ======= Top banner Section ======= -->
+  <section class="top-banner">
+    <div class="container-fluid" data-aos="fade-up">
+
+      <div class="row gy-4">
+        <div class="col-lg-7">
+
+          <div class="slides-4 swiper" data-aos="fade-up" data-aos-delay="100">
+            <div class="swiper-wrapper">
+
+              <div class="swiper-slide">
+                <img src="assets/img/banner-5.jpg" class="img-fluid" alt="slideimg">
+              </div><!-- End banner slide item -->
+
+              <div class="swiper-slide">
+                <img src="assets/img/banner.jpg" class="img-fluid" alt="slideimg">
+              </div><!-- End banner slide item -->
+
+            </div>
+            <!-- Navigation buttons -->
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+          </div>
+        
+        </div>
+        <div class="col-lg-5">
+          <a href="#">
+            <img src="assets/img/new-launch.jpg" class="img-fluid pb-3" alt="topbanner">
+          </a>
+          <a href="#">
+            <img src="assets/img/Sofa-Cum-Beds-Gif.gif" class="img-fluid" alt="topbanner">
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </section><!-- End Top banner Section -->
+
   <!-- ======= Top Picks Section ======= -->
   <section class="top-picks">
     <div class="container" data-aos="fade-up">
