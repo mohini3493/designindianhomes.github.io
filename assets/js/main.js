@@ -142,6 +142,25 @@ document.addEventListener('DOMContentLoaded', () => {
   new PureCounter();
 
   /**
+   * Last Logos Slider
+   */
+  new Swiper('.last-logos-slider', {
+    speed: 1000,
+    loop: true,
+    autoplay: {
+      delay: 1,
+      disableOnInteraction: true
+    },
+    slidesPerView: 'auto',
+    breakpoints: {
+      750: {
+        slidesPerView: 6,
+        spaceBetween: 3
+      }
+    }
+  });
+
+  /**
    * Clients Slider
    */
   new Swiper('.clients-slider', {
