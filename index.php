@@ -1054,5 +1054,26 @@
     </div>
   </section><!-- End Last footer logos Section -->
 
+  <!-- ======= Review Section ======= -->
+  <section class="reward-box">
+    <div class="container-fluid" data-aos="fade-up">
+
+    <div class="section-header">
+        <h2>Our Rewards & Recognition</h2>
+      </div>
+
+    <div class="row">
+      <div class="col-lg-6">
+        <img src="assets/img/design-indian-kitchen-indias-top-modular-kitchen-company.gif" class="img-fluid" alt="Brand logo">
+      </div>
+      <div class="col-lg-6">
+        <img src="assets/img/reward.jpg" class="img-fluid" alt="Brand logo">
+        <h3> Official Works of the Design Indian Kitchen Brand, Thanks for Visiting Us,</h3>
+        <h4>Hope Our Website Gave you a Experience that will remember for a Long Time .... !</h4>
+      </div>
+    </div>
+    </div>
+  </section><!-- End Review Section -->
+
   </main><!-- End #main -->
 <?php include "footer.php" ?>

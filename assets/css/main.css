@@ -1719,7 +1719,7 @@ section {
 
 .contact .info-item {
   width: 100%;
-  background-color: #009282;
+  background-color: var(--color-default);
   margin-bottom: 20px;
   padding: 20px;
   border-radius: 10px;
@@ -1756,6 +1756,7 @@ section {
   padding: 0;
   margin-bottom: 0;
   font-size: 14px;
+  color: #fff;
 }
 
 .contact .info-item:hover i {
@@ -3153,4 +3154,73 @@ padding-top: 23px;
 }
 .offer-detail h4 span.red-text {
   color: red;
+}
+.review-box iframe{
+  width: 100%;
+  border-radius: 12px;
+}
+.social-reviews {
+  background: #d9efd9;
+}
+.upper-part .col img {
+  object-fit: cover;
+}
+.tooltip {
+  position: relative;
+  opacity: 1!important;
+  border-bottom: 1px dotted black;
+  z-index: auto!important;
+}
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 100%;
+  background-color: var(--color-primary);
+  color: #fff;
+  /* text-align: center; */
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1!important;
+  font-size: 14px;
+  padding: 10px;
+  right: -6rem;
+  top: -5rem;
+  animation: bg-animation 15s infinite alternate;
+  background-size: 300%;
+}
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+.faq .plan-btn{
+  background: var(--color-primary);
+  padding: 15px 40px;
+  border-radius: 8px;
+  color: #fff;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  display: block;
+  width: fit-content;
+  font-weight: 600;
+}
+.reward-box{
+  background: #d9efd9;
+}
+.reward-box h3{
+  color: var(--color-default);
+  font-weight: 800;
+  text-transform: uppercase;
+  padding: 10px 0;
+}
+.reward-box img{
+  width: 100%;
+}
+.reward-box h4{
+  font-size: 36px;
+  color: #ff0000;
+}
+.faq .social-links a{
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 20px;
+  margin-right: 15px;
 }
