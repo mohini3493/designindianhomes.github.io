@@ -1005,7 +1005,7 @@
             <div class="offer-list offerMainaAllfloat">
                 <a href="#">
                   <div class="featured_img">
-                      <img decoding="async" class="non-hover-img" src="https://dlifeinteriors.com/wp-content/uploads/2020/03/breakfast-counter-by-DLIFE-new.jpg">
+                      <img decoding="async" class="non-hover-img" src="assets/img/largest-architect-interior-designing-brand-in-delhi-gurgaon-noida-india.jpg">
                       <div class="offer-sec">
                         <div class="flexMain">
                             <span>EVERYTHING</span>ESSENTIAL<label><label>
@@ -1019,11 +1019,11 @@
                   </div>
                 </a>
             </div>
-            <a href="https://dlifeinteriors.com/offers/#99"> </a>
+            <a href="#"> </a>
             <div class="offer-list offerMainaAllfloat">
                 <a href="#">
                   <div class="featured_img">
-                      <img decoding="async" class="non-hover-img" src="https://dlifeinteriors.com/wp-content/uploads/2020/03/Bedroom-interiors-by-DLIFE-new.jpg">
+                      <img decoding="async" class="non-hover-img" src="assets/img/indias-top-interiors-architect-company-in-delhi-gurgaon-noida-india.jpg">
                       <div class="offer-sec">
                         <div class="flexMain">
                             <span></span>ELEGANZA<label><label>
@@ -1037,11 +1037,11 @@
                   </div>
                 </a>
             </div>
-            <a href="https://dlifeinteriors.com/offers/#100"> </a>
+            <a href="#"> </a>
             <div class="offer-list offerMainaAllfloat">
                 <a href="#">
                   <div class="featured_img">
-                      <img decoding="async" class="non-hover-img" src="https://dlifeinteriors.com/wp-content/uploads/2020/03/L-shape-Kitchen-by-DLIFE-new.jpg">
+                      <img decoding="async" class="non-hover-img" src="assets/img/best-interior-architect-brand-in-india.jpg">
                       <div class="offer-sec">
                         <div class="flexMain">
                             <span></span>ELEGANZA<label>&nbsp;PLUS<label>
@@ -1055,7 +1055,7 @@
                   </div>
                 </a>
             </div>
-            <a href="https://dlifeinteriors.com/offers/#101"> </a>
+            <a href="#"> </a>
           </div>
 
         </div>
