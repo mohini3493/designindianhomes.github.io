@@ -735,6 +735,184 @@
     </div>
   </section><!-- End 3 boxes Section -->
 
+  <!-- ======= Frequently Asked Questions Section ======= -->
+  <section id="faq" class="faq">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-12">
+            <div class="content">
+              <h3>FAQs About <strong>Design Indian Homes</strong></h3>
+            </div>
+          </div>
+
+          <div class="col-lg-12">
+
+            <div class="accordion accordion-flush" id="faqlist" data-aos="fade-up" data-aos-delay="100">
+
+              <div class="accordion-item">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-1">
+                    <span class="num">1.</span>
+                    What are the Types of Wardrobes that you make and how do you design them ?
+                  </button>
+                </h3>
+                <div id="faq-content-1" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                  <div class="accordion-body">
+                    We are manufacturing mostly all types of wardrobes, be it normal hinged, sliding 2 doors or 3 or 4, slide and fold closets, exclusive lacquer glass, designed shutters, polished closets, teak closets, vennered closets, slide sliding, walk-ins, metal walk ins, fitted closets, niche wardrobes, white shiny wardobes, glass wardrobes, mirrored wardrobes, open closets, custom bespoke wardrobes. We design it as per specifications after a Site Visit is Booked across New Delhi - NCR. Book a Site Visit Today.
+                  </div>
+                </div>
+              </div><!-- # Faq item-->
+
+              <div class="accordion-item">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-2">
+                    <span class="num">2.</span>
+                    Do you Guys visit the residences across Delhi - NCR for wardrobe requirements? or is it restricted to some specific areas.
+                  </button>
+                </h3>
+                <div id="faq-content-2" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                  <div class="accordion-body">
+                    Yes, we do as that's a prerequisite, without a basic site visit it is not possible to understand requirements and give any solutions. Our Team members can visit across Delhi - NCR, and we are also doing PAN - India, but that depends on the project requirements. Connect with us to Know More.
+                  </div>
+                </div>
+              </div><!-- # Faq item-->
+
+              <div class="accordion-item">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-3">
+                    <span class="num">3.</span>
+                    What are the other services that you do apart from wardrobes, as we do need other interior services as well. ?
+                  </button>
+                </h3>
+                <div id="faq-content-3" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                  <div class="accordion-body">
+                    We are doing Modular Kitchens, TV Units, Partitions, Shoeracks, Bar Units, Storage units like chest of drawers, side tables, crockery units, bar units, wall niche units, Mandirs, Glass Partitions, Complete End to End Interiors including any Structural Engineering Works apart from architectural changes. We have a team of 27 architects, interior designers working round the clock on projects across Delhi - NCR. Apart from that we are associated with more than 450+ architects, interior designers, builders, decor vendors across North India.
+                  </div>
+                </div>
+              </div><!-- # Faq item-->
+
+              <div class="accordion-item">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-4">
+                    <span class="num">4.</span>
+                    Can we know what all brands are associated with you ( for hardware etc ) , or are you doing everything using a single brand.
+                  </button>
+                </h3>
+                <div id="faq-content-4" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                  <div class="accordion-body">
+                    The Below are the Exclusive Brands you will find in our Kitchens, Wardrobes and other items we manufacture.
+                  </div>
+                </div>
+              </div><!-- # Faq item-->
+
+              <div class="accordion-item">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-5">
+                    <span class="num">5.</span>
+                    How can we understand that the quality and pricing you offer is correct with the market prices?
+                  </button>
+                </h3>
+                <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                  <div class="accordion-body">
+                    It's been more than 14 years we have been in the market and since more than 11 years we have been running a policy that, BRING us any quotes across North India and we assure you FLAT 7% less on that. This is the price commitment we offer, henceforth our quotes offered have 100% written guarantee across the Town. This is all due to our extensively spread manufacturing units, controlled production planning, bulk purchases, being distributors of multiple top brands and our organized structure of turnkey planning and delivering materials enables us to give you better prices than any vendor across the City.
+                  </div>
+                </div>
+              </div><!-- # Faq item-->
+
+              <div class="accordion-item">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-6">
+                    <span class="num">6.</span>
+                    Do you have your own manufacturing unit, installation team, design center, supervisory teams, project managers or its all outsourced from 90% of companies nowadays?
+                  </button>
+                </h3>
+                <div id="faq-content-6" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                  <div class="accordion-body">
+                    Everything is In-House, right from production units, to design team, to installation team, to project managers to supervisors. We do not indulge in any 3rd party services or outsourcing any type of services.
+                  </div>
+                </div>
+              </div><!-- # Faq item-->
+
+              <div class="accordion-item">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-7">
+                    <span class="num">7.</span>
+                    Is it better to get a custom built wardrobe for my residence or order something online due to very cheap prices available?
+                  </button>
+                </h3>
+                <div id="faq-content-7" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                  <div class="accordion-body">
+                    This is a important point, where we must understand diference between the materials used by online sales company and material used by our Brand. This plays a major role, if the purpose of usage is very short than we can offer better price than any online source. But if looking for a permanent fixture, for that we suggest you to understand the materials and then make a call.
+                  </div>
+                </div>
+              </div><!-- # Faq item-->
+
+              <div class="accordion-item">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-8">
+                    <span class="num">8.</span>
+                    How can we trust that what you design is what you will deliver?
+                  </button>
+                </h3>
+                <div id="faq-content-8" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                  <div class="accordion-body">
+                    Well, Life is all about trusting and being trusted. Our Customer deliveries speak volumes, we are a brand based on integrity and hard work, right from our quotes till the date of delivery, everything will be clean and transparent. Whatever is promised will be delivered, rather something extra. We are God Fearing Bunch of Folks, just trying to make your life Clutter Free. haha
+                  </div>
+                </div>
+              </div><!-- # Faq item-->
+
+              <div class="accordion-item">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-9">
+                    <span class="num">9.</span>
+                    How can we check your reviews or see your Live projects online, where its not 3d pictures but Live installation and final handover goin on?
+                  </button>
+                </h3>
+                <div id="faq-content-9" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                  <div class="accordion-body">
+                    Regarding that, we request you visit our LIVE reels on instagram, facebook, youtube as per below links and also visit our boutique office in Connaught Place. We have Live sites going on along with final handovers. Or Book a Site Visit with Us.
+                  </div>
+                </div>
+              </div><!-- # Faq item-->
+
+              <div class="accordion-item">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-10">
+                    <span class="num">10.</span>
+                    What are the Price ranges of wardrobes in Delhi - NCR, right from the basic to the most luxurious product.
+                  </button>
+                </h3>
+                <div id="faq-content-10" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                  <div class="accordion-body">
+                    We have wardrobes starting from Rs 1150 - Rs 9500 per sqft. It all depends on the material specification and selections. Just Connect with us to know more.
+                  </div>
+                </div>
+              </div><!-- # Faq item-->
+
+              <div class="accordion-item">
+                <h3 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-11">
+                    <span class="num">11.</span>
+                    Have you worked for any Corporates in Past or are currently working on any projects?
+                  </button>
+                </h3>
+                <div id="faq-content-11" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                  <div class="accordion-body">
+                    Since past years we have been associated with multiple Corporates and worked on their projects as mentioned.
+                  </div>
+                </div>
+              </div><!-- # Faq item-->
+
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Frequently Asked Questions Section -->
+
   <!-- ======= Awards Section ======= -->
   <section>
     <div class="container" data-aos="fade-up">
