@@ -1,6 +1,20 @@
 <?php include "header.php" ?>
 
   <main id="main">
+    <!-- ======= Breadcrumbs ======= -->
+    <div class="breadcrumbs">
+      <div class="page-header d-flex align-items-center" style="background-image: url('./assets/img/modular_kitchen_designs.webp');">
+        
+      </div>
+      <nav>
+        <div class="container">
+          <ol>
+            <li><a href="index.php">Home</a></li>
+            <li>Reviews</li>
+          </ol>
+        </div>
+      </nav>
+    </div><!-- End Breadcrumbs -->
 
   <!-- ======= Homes reviews Section ======= -->
   <section class="top-picks review-box">

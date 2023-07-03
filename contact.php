@@ -2,6 +2,21 @@
 
   <main id="main">
 
+  <!-- ======= Breadcrumbs ======= -->
+  <div class="breadcrumbs">
+    <div class="page-header d-flex align-items-center" style="background-image: url('./assets/img/modular_kitchen_designs.webp');">
+      
+    </div>
+    <nav>
+      <div class="container">
+        <ol>
+          <li><a href="index.php">Home</a></li>
+          <li>Contact us</li>
+        </ol>
+      </div>
+    </nav>
+  </div><!-- End Breadcrumbs -->
+
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
       <div class="container" data-aos="fade-up">

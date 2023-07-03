@@ -261,8 +261,7 @@
           <div class="col-md-2 col-sm-4 col-xs-12 single-sec">
               <div class="working-days-section-box work-box">
                 <div class="working-days-section-box-img img_1 purple-bg">
-                    <img class="img1" src="https://dlifeinteriors.com/wp-content/uploads/2021/05/icon-1.png" alt="dlife work flow">
-                    <img class="img1-hover" style="display:none;" src="https://dlifeinteriors.com/wp-content/uploads/2021/05/icon1.png" alt="dlife work flow"> 
+                    <img class="img1-hover" src="https://dlifeinteriors.com/wp-content/uploads/2021/05/icon1.png" alt="dlife work flow"> 
                     <div class="line"></div>
                 </div>
                 <div class="working-days-section-box-head black-text">Talk to our Interior Designer <br> &amp; Get an Estimate</div>
@@ -271,8 +270,7 @@
           <div class="col-md-2 col-sm-4 col-xs-12 single-sec">
               <div class="working-days-section-box work-box">
                 <div class="working-days-section-box-img img_2 purple-bg">
-                    <img class="img2" src="https://dlifeinteriors.com/wp-content/uploads/2021/05/icon-2.png" alt="dlife work flow">
-                    <img class="img2-hover" style="display:none;" src="https://dlifeinteriors.com/wp-content/uploads/2021/05/icon2.png" alt="dlife work flow">
+                    <img class="img2-hover" src="https://dlifeinteriors.com/wp-content/uploads/2021/05/icon2.png" alt="dlife work flow">
                     <div class="line"></div>
                 </div>
                 <div class="working-days-section-box-head black-text">Detailed Drawing <br> and Approval</div>
@@ -281,8 +279,7 @@
           <div class="col-md-2 col-sm-4 col-xs-12 single-sec">
               <div class="working-days-section-box work-box">
                 <div class="working-days-section-box-img img_3">
-                    <img class="img3" src="https://dlifeinteriors.com/wp-content/uploads/2021/05/icon-3.png" alt="dlife work flow">
-                    <img class="img3-hover" style="display:none;" src="https://dlifeinteriors.com/wp-content/uploads/2021/05/icon3.png" alt="dlife work flow"> 
+                    <img class="img3-hover" src="https://dlifeinteriors.com/wp-content/uploads/2021/05/icon3.png" alt="dlife work flow"> 
                     <div class="line"></div>
                 </div>
                 <div class="working-days-section-box-head">Production at Own <br> Factories </div>
@@ -291,8 +288,7 @@
           <div class="col-md-2 col-sm-4 col-xs-12 single-sec">
               <div class="working-days-section-box work-box">
                 <div class="working-days-section-box-img img_4">
-                    <img style="height:auto !important;" class="img4" src="https://dlifeinteriors.com/wp-content/uploads/2021/05/icon-4.png" alt="dlife work flow">
-                    <img class="img4-hover" style="display:none;" src="https://dlifeinteriors.com/wp-content/uploads/2021/05/icon4.png" alt="dlife work flow">
+                    <img class="img4-hover" src="https://dlifeinteriors.com/wp-content/uploads/2021/05/icon4.png" alt="dlife work flow">
                     <div class="line"></div>
                 </div>
                 <div class="working-days-section-box-head">Material Delivery <br> &amp; Execution</div>
@@ -301,8 +297,7 @@
           <div class="col-md-2 col-sm-4 col-xs-12 single-sec">
               <div class="working-days-section-box work-box">
                 <div class="working-days-section-box-img img_5">
-                    <img class="img5" src="https://dlifeinteriors.com/wp-content/uploads/2021/05/icon-5.png" alt="dlife work flow">
-                    <img class="img5-hover" style="display:none;" src="https://dlifeinteriors.com/wp-content/uploads/2021/05/icon5.png" alt="dlife work flow">
+                    <img class="img5-hover" src="https://dlifeinteriors.com/wp-content/uploads/2021/05/icon5.png" alt="dlife work flow">
                 </div>
                 <div class="working-days-section-box-head">On Time Project <br> Hand Over</div>
               </div>
@@ -1008,8 +1003,7 @@
                       <img decoding="async" class="non-hover-img" src="assets/img/largest-architect-interior-designing-brand-in-delhi-gurgaon-noida-india.jpg">
                       <div class="offer-sec">
                         <div class="flexMain">
-                            <span>EVERYTHING</span>ESSENTIAL<label><label>
-                            </label></label>
+                            <span>On Top Priority</span>
                         </div>
                       </div>
                   </div>
@@ -1026,8 +1020,7 @@
                       <img decoding="async" class="non-hover-img" src="assets/img/indias-top-interiors-architect-company-in-delhi-gurgaon-noida-india.jpg">
                       <div class="offer-sec">
                         <div class="flexMain">
-                            <span></span>ELEGANZA<label><label>
-                            </label></label>
+                            <span>HandCrafted for You</span>
                         </div>
                       </div>
                   </div>
@@ -1044,8 +1037,7 @@
                       <img decoding="async" class="non-hover-img" src="assets/img/best-interior-architect-brand-in-india.jpg">
                       <div class="offer-sec">
                         <div class="flexMain">
-                            <span></span>ELEGANZA<label>&nbsp;PLUS<label>
-                            </label></label>
+                            <span>Be Carefree & Happy</span>
                         </div>
                       </div>
                   </div>
@@ -1063,6 +1055,137 @@
 
     </div>
   </section><!-- End Pricing Section -->
+
+  <!-- ======= End To End Structural Section ======= -->
+  <section class="top-picks">
+    <div class="container" data-aos="fade-up">
+
+      <div class="section-header">
+        <h2>End To End Structural</h2>
+        <p>End To End We Undertake Including Complete Renovations</p>
+      </div>
+
+      <div class="row gy-4">
+        <div class="col-lg-2">
+          <a href="#">
+            <img src="assets/img/Structural Renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
+            <p>Structural Renovation</p>
+          </a>
+        </div>
+        <div class="col-lg-2">
+          <a href="#">
+            <img src="assets/img/Interior Renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
+            <p>Interior Renovation</p>
+          </a>
+        </div>
+        <div class="col-lg-2">
+          <a href="#">
+            <img src="assets/img/Bedroom Renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
+            <p>Bedroom Renovation</p>
+          </a>
+        </div>
+        <div class="col-lg-2">
+          <a href="#">
+            <img src="assets/img/Lounge Renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
+            <p>Lounge Renovation</p>
+          </a>
+        </div>
+        <div class="col-lg-2">
+          <a href="#">
+            <img src="assets/img/bathroom renovation1.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
+            <p>Bathroom Renovation</p>
+          </a>
+        </div>
+        <div class="col-lg-2">
+          <a href="#">
+            <img src="assets/img/terrace renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
+            <p>Terrace Renovations</p>
+          </a>
+        </div>
+        <div class="col-lg-2">
+          <a href="#">
+            <img src="assets/img/Living Room Renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
+            <p>Living Room Renovation</p>
+          </a>
+        </div>
+        <div class="col-lg-2">
+          <a href="#">
+            <img src="assets/img/SPA renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
+            <p>Kitchen & Wardrobe Renovation</p>
+          </a>
+        </div>
+        <div class="col-lg-2">
+          <a href="#">
+            <img src="assets/img/mandir renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
+            <p>Mandir Room Renovations</p>
+          </a>
+        </div>
+        <div class="col-lg-2">
+          <a href="#">
+            <img src="assets/img/GYM & SPA renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
+            <p>Gym's & Spa's Renovations</p>
+          </a>
+        </div>
+        <div class="col-lg-2">
+          <a href="#">
+            <img src="assets/img/Hotel Renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
+            <p>Hotel Renovation</p>
+          </a>
+        </div>
+        <div class="col-lg-2">
+          <a href="#">
+            <img src="assets/img/Farmhouse Renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
+            <p>FarmHouse Renovations</p>
+          </a>
+        </div>
+        <div class="col-lg-2">
+          <a href="#">
+            <img src="assets/img/banquet renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
+            <p>Banquets Renovation</p>
+          </a>
+        </div>
+        <div class="col-lg-2">
+          <a href="#">
+            <img src="assets/img/Villa renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
+            <p>Villa Renovations</p>
+          </a>
+        </div>
+        
+      </div>
+
+    </div>
+  </section><!-- End of End To End Structural Section -->
+
+  <section>
+    <div class="container" data-aos="fade-up">
+
+      <div class="section-header">
+        <h2>We're making news</h2>
+      </div>
+
+      <div class="row gy-4">
+        
+        <div class="col-lg-12">
+          <div class="news-slides">
+            <a href="#" class="slide">
+              <img src="assets/img/livemint02.webp" class="img-fluid" alt="news">
+            </a>
+            <a href="#" class="slide">
+              <img src="assets/img/toi02.webp" class="img-fluid" alt="news">
+            </a>
+            <a href="#" class="slide">
+              <img src="assets/img/inc4202.webp" class="img-fluid" alt="news">
+            </a>
+            <a href="#" class="slide">
+              <img src="assets/img/et02.webp" class="img-fluid" alt="news">
+            </a>
+          </div>
+        </div>
+        
+      </div>
+
+      </div>
+  </section>
 
   <!-- ======= Buy Furniture Section ======= -->
   <section class="buy-furniture">
@@ -1281,7 +1404,7 @@
 
     <div class="row">
       <div class="col-lg-6">
-        <img src="assets/img/design-indian-kitchen-indias-top-modular-kitchen-company.gif" class="img-fluid" alt="Brand logo">
+        <img src="assets/img/design-indian-home-1.gif" class="img-fluid" alt="Design Indian Home">
       </div>
       <div class="col-lg-6">
         <img src="assets/img/reward.jpg" class="img-fluid" alt="Brand logo">
@@ -1291,6 +1414,23 @@
     </div>
     </div>
   </section><!-- End Review Section -->
+
+  <!-- === Book a Call Section === -->
+  <section class="book-call">
+      <div class="container">
+          <div class="row">
+              <div class="col-lg-12">
+                <div>
+                  <a href="mailto:#" class="bigcta">
+                    <span class="h2">Call Us Today!</span><br>
+                    <span class="p">We can talk about how big this button is.</span>
+                  </a>
+                </div>
+              </div>
+          </div>
+      </div>
+  </section>
+  <!-- === End Book a Call Section === -->
 
   </main><!-- End #main -->
 <?php include "footer.php" ?>
