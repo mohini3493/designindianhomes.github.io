@@ -10,7 +10,7 @@
       <nav>
         <div class="container">
           <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li>Sample Inner Page</li>
           </ol>
         </div>

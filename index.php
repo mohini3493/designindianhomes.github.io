@@ -212,36 +212,36 @@
 
       <div class="row gy-4">
         <div class="col-lg-3">
-            <img src="assets/img/appointment.png" class="img-fluid mb-2" alt="whyimg">
-            <p>45 days or we pay you rent</p>
+            <img src="assets/img/icon1.png" class="img-fluid mb-2" alt="whyimg">
+            <p>On Time Delivery</p>
         </div>
         <div class="col-lg-3">
-            <img src="assets/img/people.png" class="img-fluid mb-2" alt="whyimg">
-            <p>25,000+ happy customers</p>
+            <img src="assets/img/icon2.png" class="img-fluid mb-2" alt="whyimg">
+            <p>1609+ Happy Homes</p>
         </div>
         <div class="col-lg-3">
-            <img src="assets/img/rating-stars.png" class="img-fluid mb-2" alt="whyimg">
-            <p>600+ design experts</p>
+            <img src="assets/img/icon3.png" class="img-fluid mb-2" alt="whyimg">
+            <p>81+ Inhouse Architects & Interior Pro's</p>
         </div>
         <div class="col-lg-3">
-            <img src="assets/img/guarantee.png" class="img-fluid mb-2" alt="whyimg">
-            <p>Flat 10 year warranty</p>
+            <img src="assets/img/icon4.png" class="img-fluid mb-2" alt="whyimg">
+            <p>End To End Interiors & Structure Building</p>
         </div>
         <div class="col-lg-3">
-            <img src="assets/img/appointment.png" class="img-fluid mb-2" alt="whyimg">
-            <p>45 days or we pay you rent</p>
+            <img src="assets/img/icon5.png" class="img-fluid mb-2" alt="whyimg">
+            <p>Warranty Direct from Source</p>
         </div>
         <div class="col-lg-3">
-            <img src="assets/img/people.png" class="img-fluid mb-2" alt="whyimg">
-            <p>25,000+ happy customers</p>
+            <img src="assets/img/icon6.png" class="img-fluid mb-2" alt="whyimg">
+            <p>Professional Personnel</p>
         </div>
         <div class="col-lg-3">
-            <img src="assets/img/rating-stars.png" class="img-fluid mb-2" alt="whyimg">
-            <p>600+ design experts</p>
+            <img src="assets/img/icon7.png" class="img-fluid mb-2" alt="whyimg">
+            <p>In-House Modular Manufacturing</p>
         </div>
         <div class="col-lg-3">
-            <img src="assets/img/guarantee.png" class="img-fluid mb-2" alt="whyimg">
-            <p>Flat 10 year warranty</p>
+            <img src="assets/img/icon8.png" class="img-fluid mb-2" alt="whyimg">
+            <p>Multiple Quality Checks</p>
         </div>
       </div>
 
@@ -553,6 +553,57 @@
 
     </div>
   </section><!-- End Best Selling Section -->
+
+  <!-- ======= 6 steps Section ======= -->
+  <section class="steps-box">
+    <div class="container">
+        <div class="row gy-4">
+          <div class="col-lg-6">
+            <img src="assets/img/CompleteHI-03.webp" class="img-fluid" alt="Booking The First Visit">
+          </div>
+          <div class="col-lg-6">
+            <div class="tabbox">
+              <h3>The Process of Booking With Us</h3>
+              <ul class="tabs">
+                <li class="tab-link current" data-tab="1">1</li>
+                <li class="tab-link" data-tab="2">2</li>
+                <li class="tab-link" data-tab="3">3</li>
+                <li class="tab-link" data-tab="4">4</li>
+                <li class="tab-link" data-tab="5">5</li>
+                <li class="tab-link" data-tab="6">6</li>
+              </ul>
+
+              <div id="1" class="tab-content current">
+                <strong>Finally Found Us</strong><br>
+                After long searches, you finally reached the right destination, where all works will be done from Source, right from manufacturing modulars to end to interiors & Structures.
+              </div>
+              <div id="2" class="tab-content">
+                <strong>Booking The First Visit</strong><br>
+                You Book a Visit with Our Modular Coordinator or Architect Coordinator ( if end to end  or Structural/Architectural Consultation ) , very sorry we dont have field running staff to waste your time and ours ☺️. <br>
+                *A nominal Adjustable first Visit Charge shall be taken for Either of the meet .
+              </div>
+              <div id="3" class="tab-content">
+                <strong>Understanding Requirements</strong><br>
+                We Show you Concepts, understand requirements, & give our expert advices followed by a thorough evaluation.
+              </div>
+              <div id="4" class="tab-content">
+                <strong>You Visit Our Boutique Office</strong><br>
+                we show your the presentation as per understanding of works, show tentative estimates & give further details on design execution.
+              </div>
+              <div id="5" class="tab-content">
+                <strong>Initiating Designing & Planning</strong><br>
+                We start your detailed designing & planning incl MEP if required, of course it will be hands on Approach. All designing & planning will be at a affordable quote ( mostly its 10% of tentative estimate ) .
+              </div>
+              <div id="6" class="tab-content">
+                <strong>Approvals & Initiating Execution as per Timelines</strong><br>
+                We start the Modular, End to End Or Structural Works and Deliver as per Assured Time.
+              </div>
+
+            </div>
+          </div>
+        </div><!-- row -->
+    </div><!-- container -->    
+  </section><!-- End 6 steps Section -->
 
   <!-- ======= End-to-end Section ======= -->
   <section>
@@ -1287,7 +1338,7 @@
   </section><!-- End Buy Furniture Section -->
 
   <!-- ======= 5 boxes Section ======= -->
-  <section>
+  <section class="five-boxes">
     <div class="container" data-aos="fade-up">
 
       <div class="row gy-4">
@@ -1374,7 +1425,7 @@
 
   <!-- ======= Last footer logos Section ======= -->
   <section class="last-logos">
-    <div class="container" data-aos="zoom-out">
+    <div class="container" data-aos="fade-up">
 
       <div class="last-logos-slider swiper">
         <div class="swiper-wrapper align-items-center">
@@ -1432,5 +1483,78 @@
   </section>
   <!-- === End Book a Call Section === -->
 
+  <!-- === Trinity Section === -->
+  <section class="trinity">
+      <div class="container">
+
+      <div class="section-header">
+        <h2>Know The Trinity Brands</h2>
+      </div>
+
+      <div class="row">
+          <div class="col-lg-4">
+            <a href="https://www.designindiankitchen.com/">
+              <img src="assets/img/dkilogo.png" class="img-fluid" alt="Design Indian Kitchen">
+              <p>Design Indian Kitchen</p>
+            </a>
+          </div>
+          <div class="col-lg-4">
+            <a href="https://designindianhomes.com/">
+              <img src="assets/img/desig%20indian%20homes.gif" class="img-fluid" alt="Design Indian Homes">
+              <p>Design Indian Homes</p>
+            </a>
+          </div>
+          <div class="col-lg-4">
+            <a href="https://www.designindianwardrobe.com/">
+              <img src="assets/img/footer-logo-multi.png" class="img-fluid" alt="Design Indian Wardrobe">
+              <p>Design Indian Wardrobe</p>
+            </a>
+          </div>
+      </div>
+
+      </div>
+  </section>
+  <!-- === End Trinity Section === -->
+
   </main><!-- End #main -->
+
+  <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script>
+  $(document).ready(function(){
+	function slider(){
+    var tab_id = $('li.current').attr('data-tab');
+        
+    var n_tab_id = parseInt(tab_id) + 1 ;
+    if (n_tab_id == 7){
+      n_tab_id = 1;
+    }
+     $('ul.tabs li').removeClass('current');
+		$('.tab-content').removeClass('current');
+    $("ul").find("[data-tab='" + n_tab_id + "']").addClass('current');
+		$("#"+n_tab_id).addClass('current');
+  }
+  
+  var myTimer = setInterval(slider, 1000);
+   
+  
+  
+	$('ul.tabs li').click(function(){
+		var tab_id = $(this).attr('data-tab');
+
+		$('ul.tabs li').removeClass('current');
+		$('.tab-content').removeClass('current');
+
+		$(this).addClass('current');
+		$("#"+tab_id).addClass('current');
+	})
+  $('.container').mouseover(function(){
+    clearInterval(myTimer);
+  })
+    $('.container').mouseout(function(){
+    myTimer = setInterval(slider, 3000);
+  })
+})
+
+
+    </script>
 <?php include "footer.php" ?>
