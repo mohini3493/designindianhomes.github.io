@@ -6,14 +6,14 @@
 
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs">
-      <div class="page-header d-flex align-items-center" style="background-image: url('./assets/img/modular_kitchen_designs.webp');">
+      <div class="page-header d-flex align-items-center" style="background-image: url('./assets/img/Plumbing/complete-plumbing-work-dealers-services-contractors-in-delhi-gurgaon-noida-india (5).jpg');">
         
       </div>
       <nav>
         <div class="container">
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li>Structural Renovation</li>
+            <li>Plumbing</li>
           </ol>
         </div>
       </nav>

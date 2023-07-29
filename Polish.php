@@ -6,14 +6,14 @@
 
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs">
-      <div class="page-header d-flex align-items-center" style="background-image: url('./assets/img/modular_kitchen_designs.webp');">
+      <div class="page-header d-flex align-items-center" style="background-image: url('./assets/img/Polish/furniture-polishing-wooden-polishing-types-in-delhi-noida-gurgaon-india (2).jpg');">
         
       </div>
       <nav>
         <div class="container">
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li>Structural Renovation</li>
+            <li>Polish</li>
           </ol>
         </div>
       </nav>

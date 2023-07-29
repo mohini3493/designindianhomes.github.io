@@ -6,14 +6,14 @@
 
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs">
-      <div class="page-header d-flex align-items-center" style="background-image: url('./assets/img/modular_kitchen_designs.webp');">
+      <div class="page-header d-flex align-items-center" style="background-image: url('./assets/img/Duplex-residence/interior-designing-ideas-for-duplex-in-delhi-gurgaon-noida-india-faridabad (4).jpg');background-position-y: 20%;">
         
       </div>
       <nav>
         <div class="container">
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li>Structural Renovation</li>
+            <li>Duplex Residence</li>
           </ol>
         </div>
       </nav>
@@ -45,7 +45,7 @@
                             <div class="row">
                                 <div class="col-lg-6">
                                   <div class="portfolio-single-item image-border">
-                                      <img src="assets/img/Bed/best-designs-for-beds-wooden-beds-with-storage-side-tables-interior-designers-delhi-gurgaon-noida-india (7).jpg" class="img-fluid" alt="Design Indian Homes">
+                                      <img src="assets/img/Duplex-residence/lowest-price-duplex-interior-designs-ideas-concepts-in-delhi-gurgaon-noida-india (5).jpg" class="img-fluid" alt="Design Indian Homes">
                                   </div>
                                 </div>
                                 <div class="col-lg-6">

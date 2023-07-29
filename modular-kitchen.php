@@ -6,14 +6,14 @@
 
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs">
-      <div class="page-header d-flex align-items-center" style="background-image: url('./assets/img/modular_kitchen_designs.webp');">
+      <div class="page-header d-flex align-items-center" style="background-image: url('./assets/img/modular-kitchen/best-small-modular-kitchen-designs-in-delhi-gurgaon-noida-india-sleek-godrej-livspace-homelane-kitchen-design-indian-kitchen (5).jpg');    background-position-y: 75%;">
         
       </div>
       <nav>
         <div class="container">
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li>Structural Renovation</li>
+            <li>Modular Kitchen</li>
           </ol>
         </div>
       </nav>
@@ -45,7 +45,7 @@
                             <div class="row">
                                 <div class="col-lg-6">
                                   <div class="portfolio-single-item image-border">
-                                      <img src="assets/img/Bed/best-designs-for-beds-wooden-beds-with-storage-side-tables-interior-designers-delhi-gurgaon-noida-india (7).jpg" class="img-fluid" alt="Design Indian Homes">
+                                      <img src="assets/img/modular-kitchen/price-of-modular-kitchen-in-delhi-gurgaon-noida-india-lowest-cheapest-modular-kitchen-in-delhi-gurgaon-noida-india (4).jpg" class="img-fluid" alt="Design Indian Homes">
                                   </div>
                                 </div>
                                 <div class="col-lg-6">

@@ -112,7 +112,7 @@ section {
 }
 
 .breadcrumbs nav ol a {
-  color: var(--color-primary);
+  color: var(--color-default);
   transition: 0.3s;
 }
 
@@ -127,7 +127,7 @@ section {
 .breadcrumbs nav ol li+li::before {
   display: inline-block;
   padding-right: 10px;
-  color: var(--color-secondary);
+  color: var(--color-primary);
   content: "/";
 }
 
@@ -551,6 +551,8 @@ section {
   border-radius: 5px;
   margin-left: 15px;
   z-index: 10004;
+  position: absolute;
+  bottom: 30%;
 }
 .navbar .btn-get-free:hover{
   background: var(--color-secondary);

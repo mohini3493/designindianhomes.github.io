@@ -6,14 +6,14 @@
 
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs">
-      <div class="page-header d-flex align-items-center" style="background-image: url('./assets/img/modular_kitchen_designs.webp');">
+      <div class="page-header d-flex align-items-center" style="background-image: url('./assets/img/Living-room/living-room-design-ideas-renovation-services-in-delhi-gurgaon-noida-india (3).jpg');background-position: center;">
         
       </div>
       <nav>
         <div class="container">
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li>Structural Renovation</li>
+            <li>Living Room</li>
           </ol>
         </div>
       </nav>
@@ -45,7 +45,7 @@
                             <div class="row">
                                 <div class="col-lg-6">
                                   <div class="portfolio-single-item image-border">
-                                      <img src="assets/img/Bed/best-designs-for-beds-wooden-beds-with-storage-side-tables-interior-designers-delhi-gurgaon-noida-india (7).jpg" class="img-fluid" alt="Design Indian Homes">
+                                      <img src="assets/img/Living-room/best-designs-for-living-rooms-renovations-services-turnkey-living-room-designs-services-in-delhi-gurgaon-noida-india (5).jpg" class="img-fluid" alt="Design Indian Homes">
                                   </div>
                                 </div>
                                 <div class="col-lg-6">

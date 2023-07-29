@@ -6,14 +6,14 @@
 
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs">
-      <div class="page-header d-flex align-items-center" style="background-image: url('./assets/img/modular_kitchen_designs.webp');">
+      <div class="page-header d-flex align-items-center" style="background-image: url('./assets/img/end-to-end/no1-architectural-interior-designing-brand-company-delhi-gurgaon-noida-india (3).jpg');background-position: center;">
         
       </div>
       <nav>
         <div class="container">
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li>Structural Renovation</li>
+            <li>End To End</li>
           </ol>
         </div>
       </nav>
@@ -45,7 +45,7 @@
                             <div class="row">
                                 <div class="col-lg-6">
                                   <div class="portfolio-single-item image-border">
-                                      <img src="assets/img/Bed/best-designs-for-beds-wooden-beds-with-storage-side-tables-interior-designers-delhi-gurgaon-noida-india (7).jpg" class="img-fluid" alt="Design Indian Homes">
+                                      <img src="assets/img/end-to-end/top-interior-architect-company-delhi-gurgaon-noida--faridabad-india (2).jpg" class="img-fluid" alt="Design Indian Homes">
                                   </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -78,25 +78,7 @@
     <section id="portfolio" class="section portfolio pt-0 pb-4">
         <div class="container">
             <div class="portfolio-items row">
-                <!-- Start Item -->
-<div class="col-lg-4 portfolio-item">
-    <div class="image-border">
-        <div class="portfolio-item-content">
-            <img src="assets/img/end-to-end/architectural-interior-designing-brand-in-delhi-gurgaon-noida-india (1).jpeg" alt="Design Indian Homes" class="img-fluid">
-            <div class="img-overlay text-center">
-                <div class="img-overlay-content">
-                    <div class="portfolio-icon">
-                        <a href="javascript:void();" type="button" data-toggle="modal" data-target="#portfolio-single"><i class="bi-link"></i></a>
-                        <a href="assets/img/end-to-end/architectural-interior-designing-brand-in-delhi-gurgaon-noida-india (1).jpeg" class="js-zoom-gallery">
-                            <i class="bi-search"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Item -->
+                
 <!-- Start Item -->
 <div class="col-lg-4 portfolio-item">
     <div class="image-border">
@@ -135,25 +117,7 @@
     </div>
 </div>
 <!-- End Item -->
-<!-- Start Item -->
-<div class="col-lg-4 portfolio-item">
-    <div class="image-border">
-        <div class="portfolio-item-content">
-            <img src="assets/img/end-to-end/best-architect-interior-designing-company-delhi-gurgaon-noida-faridabad-india (2).jpeg" alt="Design Indian Homes" class="img-fluid">
-            <div class="img-overlay text-center">
-                <div class="img-overlay-content">
-                    <div class="portfolio-icon">
-                        <a href="javascript:void();" type="button" data-toggle="modal" data-target="#portfolio-single"><i class="bi-link"></i></a>
-                        <a href="assets/img/end-to-end/best-architect-interior-designing-company-delhi-gurgaon-noida-faridabad-india (2).jpeg" class="js-zoom-gallery">
-                            <i class="bi-search"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Item -->
+
 <!-- Start Item -->
 <div class="col-lg-4 portfolio-item">
     <div class="image-border">
@@ -177,12 +141,88 @@
 <div class="col-lg-4 portfolio-item">
     <div class="image-border">
         <div class="portfolio-item-content">
-            <img src="assets/img/end-to-end/best-architectural-top-architects-interior-designing-company-brand-delhi-gurgaon-noida-india (3).jpeg" alt="Design Indian Homes" class="img-fluid">
+            <img src="assets/img/end-to-end/indias-no-1-interior-designing-architectural-works-brand-company-in-delhi-gurgaon-noida-faridabad-india (10).jpg" alt="Design Indian Homes" class="img-fluid">
             <div class="img-overlay text-center">
                 <div class="img-overlay-content">
                     <div class="portfolio-icon">
                         <a href="javascript:void();" type="button" data-toggle="modal" data-target="#portfolio-single"><i class="bi-link"></i></a>
-                        <a href="assets/img/end-to-end/best-architectural-top-architects-interior-designing-company-brand-delhi-gurgaon-noida-india (3).jpeg" class="js-zoom-gallery">
+                        <a href="assets/img/end-to-end/indias-no-1-interior-designing-architectural-works-brand-company-in-delhi-gurgaon-noida-faridabad-india (10).jpg" class="js-zoom-gallery">
+                            <i class="bi-search"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Item -->
+<!-- Start Item -->
+<div class="col-lg-4 portfolio-item">
+    <div class="image-border">
+        <div class="portfolio-item-content">
+            <img src="assets/img/end-to-end/indias-no-1-interior-designing-architectural-works-brand-company-in-delhi-gurgaon-noida-faridabad-india (11).jpg" alt="Design Indian Homes" class="img-fluid">
+            <div class="img-overlay text-center">
+                <div class="img-overlay-content">
+                    <div class="portfolio-icon">
+                        <a href="javascript:void();" type="button" data-toggle="modal" data-target="#portfolio-single"><i class="bi-link"></i></a>
+                        <a href="assets/img/end-to-end/indias-no-1-interior-designing-architectural-works-brand-company-in-delhi-gurgaon-noida-faridabad-india (11).jpg" class="js-zoom-gallery">
+                            <i class="bi-search"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Item -->
+<!-- Start Item -->
+<div class="col-lg-4 portfolio-item">
+    <div class="image-border">
+        <div class="portfolio-item-content">
+            <img src="assets/img/end-to-end/indias-no-1-interior-designing-architectural-works-brand-company-in-delhi-gurgaon-noida-faridabad-india (6).jpeg" alt="Design Indian Homes" class="img-fluid">
+            <div class="img-overlay text-center">
+                <div class="img-overlay-content">
+                    <div class="portfolio-icon">
+                        <a href="javascript:void();" type="button" data-toggle="modal" data-target="#portfolio-single"><i class="bi-link"></i></a>
+                        <a href="assets/img/end-to-end/indias-no-1-interior-designing-architectural-works-brand-company-in-delhi-gurgaon-noida-faridabad-india (6).jpeg" class="js-zoom-gallery">
+                            <i class="bi-search"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Item -->
+<!-- Start Item -->
+<div class="col-lg-4 portfolio-item">
+    <div class="image-border">
+        <div class="portfolio-item-content">
+            <img src="assets/img/end-to-end/indias-no-1-interior-designing-architectural-works-brand-company-in-delhi-gurgaon-noida-faridabad-india (6).jpg" alt="Design Indian Homes" class="img-fluid">
+            <div class="img-overlay text-center">
+                <div class="img-overlay-content">
+                    <div class="portfolio-icon">
+                        <a href="javascript:void();" type="button" data-toggle="modal" data-target="#portfolio-single"><i class="bi-link"></i></a>
+                        <a href="assets/img/end-to-end/indias-no-1-interior-designing-architectural-works-brand-company-in-delhi-gurgaon-noida-faridabad-india (6).jpg" class="js-zoom-gallery">
+                            <i class="bi-search"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Item -->
+<!-- Start Item -->
+<div class="col-lg-4 portfolio-item">
+    <div class="image-border">
+        <div class="portfolio-item-content">
+            <img src="assets/img/end-to-end/indias-no-1-interior-designing-architectural-works-brand-company-in-delhi-gurgaon-noida-faridabad-india (7).jpeg" alt="Design Indian Homes" class="img-fluid">
+            <div class="img-overlay text-center">
+                <div class="img-overlay-content">
+                    <div class="portfolio-icon">
+                        <a href="javascript:void();" type="button" data-toggle="modal" data-target="#portfolio-single"><i class="bi-link"></i></a>
+                        <a href="assets/img/end-to-end/indias-no-1-interior-designing-architectural-works-brand-company-in-delhi-gurgaon-noida-faridabad-india (7).jpeg" class="js-zoom-gallery">
                             <i class="bi-search"></i>
                         </a>
                     </div>
@@ -401,101 +441,7 @@
     </div>
 </div>
 <!-- End Item -->
-<!-- Start Item -->
-<div class="col-lg-4 portfolio-item">
-    <div class="image-border">
-        <div class="portfolio-item-content">
-            <img src="assets/img/end-to-end/indias-no-1-interior-designing-architectural-works-brand-company-in-delhi-gurgaon-noida-faridabad-india (10).jpg" alt="Design Indian Homes" class="img-fluid">
-            <div class="img-overlay text-center">
-                <div class="img-overlay-content">
-                    <div class="portfolio-icon">
-                        <a href="javascript:void();" type="button" data-toggle="modal" data-target="#portfolio-single"><i class="bi-link"></i></a>
-                        <a href="assets/img/end-to-end/indias-no-1-interior-designing-architectural-works-brand-company-in-delhi-gurgaon-noida-faridabad-india (10).jpg" class="js-zoom-gallery">
-                            <i class="bi-search"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Item -->
-<!-- Start Item -->
-<div class="col-lg-4 portfolio-item">
-    <div class="image-border">
-        <div class="portfolio-item-content">
-            <img src="assets/img/end-to-end/indias-no-1-interior-designing-architectural-works-brand-company-in-delhi-gurgaon-noida-faridabad-india (11).jpg" alt="Design Indian Homes" class="img-fluid">
-            <div class="img-overlay text-center">
-                <div class="img-overlay-content">
-                    <div class="portfolio-icon">
-                        <a href="javascript:void();" type="button" data-toggle="modal" data-target="#portfolio-single"><i class="bi-link"></i></a>
-                        <a href="assets/img/end-to-end/indias-no-1-interior-designing-architectural-works-brand-company-in-delhi-gurgaon-noida-faridabad-india (11).jpg" class="js-zoom-gallery">
-                            <i class="bi-search"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Item -->
-<!-- Start Item -->
-<div class="col-lg-4 portfolio-item">
-    <div class="image-border">
-        <div class="portfolio-item-content">
-            <img src="assets/img/end-to-end/indias-no-1-interior-designing-architectural-works-brand-company-in-delhi-gurgaon-noida-faridabad-india (6).jpeg" alt="Design Indian Homes" class="img-fluid">
-            <div class="img-overlay text-center">
-                <div class="img-overlay-content">
-                    <div class="portfolio-icon">
-                        <a href="javascript:void();" type="button" data-toggle="modal" data-target="#portfolio-single"><i class="bi-link"></i></a>
-                        <a href="assets/img/end-to-end/indias-no-1-interior-designing-architectural-works-brand-company-in-delhi-gurgaon-noida-faridabad-india (6).jpeg" class="js-zoom-gallery">
-                            <i class="bi-search"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Item -->
-<!-- Start Item -->
-<div class="col-lg-4 portfolio-item">
-    <div class="image-border">
-        <div class="portfolio-item-content">
-            <img src="assets/img/end-to-end/indias-no-1-interior-designing-architectural-works-brand-company-in-delhi-gurgaon-noida-faridabad-india (6).jpg" alt="Design Indian Homes" class="img-fluid">
-            <div class="img-overlay text-center">
-                <div class="img-overlay-content">
-                    <div class="portfolio-icon">
-                        <a href="javascript:void();" type="button" data-toggle="modal" data-target="#portfolio-single"><i class="bi-link"></i></a>
-                        <a href="assets/img/end-to-end/indias-no-1-interior-designing-architectural-works-brand-company-in-delhi-gurgaon-noida-faridabad-india (6).jpg" class="js-zoom-gallery">
-                            <i class="bi-search"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Item -->
-<!-- Start Item -->
-<div class="col-lg-4 portfolio-item">
-    <div class="image-border">
-        <div class="portfolio-item-content">
-            <img src="assets/img/end-to-end/indias-no-1-interior-designing-architectural-works-brand-company-in-delhi-gurgaon-noida-faridabad-india (7).jpeg" alt="Design Indian Homes" class="img-fluid">
-            <div class="img-overlay text-center">
-                <div class="img-overlay-content">
-                    <div class="portfolio-icon">
-                        <a href="javascript:void();" type="button" data-toggle="modal" data-target="#portfolio-single"><i class="bi-link"></i></a>
-                        <a href="assets/img/end-to-end/indias-no-1-interior-designing-architectural-works-brand-company-in-delhi-gurgaon-noida-faridabad-india (7).jpeg" class="js-zoom-gallery">
-                            <i class="bi-search"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Item -->
+
 <!-- Start Item -->
 <div class="col-lg-4 portfolio-item">
     <div class="image-border">
@@ -677,6 +623,25 @@
                     <div class="portfolio-icon">
                         <a href="javascript:void();" type="button" data-toggle="modal" data-target="#portfolio-single"><i class="bi-link"></i></a>
                         <a href="assets/img/end-to-end/largest-interior-designing-architectural-brand-company-in-delhi-gurgaon-noida-india (8).jpeg" class="js-zoom-gallery">
+                            <i class="bi-search"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Item -->
+<!-- Start Item -->
+<div class="col-lg-4 portfolio-item">
+    <div class="image-border">
+        <div class="portfolio-item-content">
+            <img src="assets/img/end-to-end/architectural-interior-designing-brand-in-delhi-gurgaon-noida-india (1).jpeg" alt="Design Indian Homes" class="img-fluid">
+            <div class="img-overlay text-center">
+                <div class="img-overlay-content">
+                    <div class="portfolio-icon">
+                        <a href="javascript:void();" type="button" data-toggle="modal" data-target="#portfolio-single"><i class="bi-link"></i></a>
+                        <a href="assets/img/end-to-end/architectural-interior-designing-brand-in-delhi-gurgaon-noida-india (1).jpeg" class="js-zoom-gallery">
                             <i class="bi-search"></i>
                         </a>
                     </div>
@@ -994,6 +959,25 @@
 <div class="col-lg-4 portfolio-item">
     <div class="image-border">
         <div class="portfolio-item-content">
+            <img src="assets/img/end-to-end/best-architect-interior-designing-company-delhi-gurgaon-noida-faridabad-india (2).jpeg" alt="Design Indian Homes" class="img-fluid">
+            <div class="img-overlay text-center">
+                <div class="img-overlay-content">
+                    <div class="portfolio-icon">
+                        <a href="javascript:void();" type="button" data-toggle="modal" data-target="#portfolio-single"><i class="bi-link"></i></a>
+                        <a href="assets/img/end-to-end/best-architect-interior-designing-company-delhi-gurgaon-noida-faridabad-india (2).jpeg" class="js-zoom-gallery">
+                            <i class="bi-search"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Item -->
+<!-- Start Item -->
+<div class="col-lg-4 portfolio-item">
+    <div class="image-border">
+        <div class="portfolio-item-content">
             <img src="assets/img/end-to-end/top-interior-architect-company-delhi-gurgaon-noida-india (6).jpg" alt="Design Indian Homes" class="img-fluid">
             <div class="img-overlay text-center">
                 <div class="img-overlay-content">
@@ -1095,6 +1079,25 @@
                     <div class="portfolio-icon">
                         <a href="javascript:void();" type="button" data-toggle="modal" data-target="#portfolio-single"><i class="bi-link"></i></a>
                         <a href="assets/img/end-to-end/top-interior-designers-architects-brand-company-delhi-gurgaon-noida-india (6).jpg" class="js-zoom-gallery">
+                            <i class="bi-search"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Item -->
+<!-- Start Item -->
+<div class="col-lg-4 portfolio-item">
+    <div class="image-border">
+        <div class="portfolio-item-content">
+            <img src="assets/img/end-to-end/best-architectural-top-architects-interior-designing-company-brand-delhi-gurgaon-noida-india (3).jpeg" alt="Design Indian Homes" class="img-fluid">
+            <div class="img-overlay text-center">
+                <div class="img-overlay-content">
+                    <div class="portfolio-icon">
+                        <a href="javascript:void();" type="button" data-toggle="modal" data-target="#portfolio-single"><i class="bi-link"></i></a>
+                        <a href="assets/img/end-to-end/best-architectural-top-architects-interior-designing-company-brand-delhi-gurgaon-noida-india (3).jpeg" class="js-zoom-gallery">
                             <i class="bi-search"></i>
                         </a>
                     </div>

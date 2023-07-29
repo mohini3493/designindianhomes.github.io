@@ -6,14 +6,14 @@
 
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs">
-      <div class="page-header d-flex align-items-center" style="background-image: url('./assets/img/modular_kitchen_designs.webp');">
+      <div class="page-header d-flex align-items-center" style="background-image: url('./assets/img/wardrobe-dealers/best-wardrobe-design-gallery-in-delhi-gurgaon-noida-india-largest-collection (9).jpg');background-position-y: 10%;">
         
       </div>
       <nav>
         <div class="container">
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li>Structural Renovation</li>
+            <li>Wardrobe Dealers</li>
           </ol>
         </div>
       </nav>
@@ -45,7 +45,7 @@
                             <div class="row">
                                 <div class="col-lg-6">
                                   <div class="portfolio-single-item image-border">
-                                      <img src="assets/img/Bed/best-designs-for-beds-wooden-beds-with-storage-side-tables-interior-designers-delhi-gurgaon-noida-india (7).jpg" class="img-fluid" alt="Design Indian Homes">
+                                      <img src="assets/img/wardrobe-dealers/price-of-modular-wardrobe-in-delhi-gurgaon-noida-india-lowest-price-guaranteed (2).jpg" class="img-fluid" alt="Design Indian Homes">
                                   </div>
                                 </div>
                                 <div class="col-lg-6">

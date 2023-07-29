@@ -6,14 +6,14 @@
 
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs">
-      <div class="page-header d-flex align-items-center" style="background-image: url('./assets/img/modular_kitchen_designs.webp');">
+      <div class="page-header d-flex align-items-center" style="background-image: url('./assets/img/Bathroom/low-price-of-bathroom-redesigning-builders-architects-interior-designers-delhi-gurgaon-noida-india (2).jpeg');background-position: left;">
         
       </div>
       <nav>
         <div class="container">
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li>Structural Renovation</li>
+            <li>Bathroom</li>
           </ol>
         </div>
       </nav>
@@ -45,7 +45,7 @@
                             <div class="row">
                                 <div class="col-lg-6">
                                   <div class="portfolio-single-item image-border">
-                                      <img src="assets/img/Bathroom/low-price-of-bathroom-redesigning-builders-architects-interior-designers-delhi-gurgaon-noida-india (1).jpeg" class="img-fluid" alt="Design Indian Homes">
+                                      <img src="assets/img/Bathroom/low-price-of-bathroom-redesigning-builders-architects-interior-designers-delhi-gurgaon-noida-india (5).jpg" class="img-fluid" alt="Design Indian Homes">
                                   </div>
                                 </div>
                                 <div class="col-lg-6">

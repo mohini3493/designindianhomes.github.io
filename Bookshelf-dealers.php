@@ -6,14 +6,14 @@
 
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs">
-      <div class="page-header d-flex align-items-center" style="background-image: url('./assets/img/modular_kitchen_designs.webp');">
+      <div class="page-header d-flex align-items-center" style="background-image: url('./assets/img/Bookshelf-dealers/bookshelf-designs-modern-contemporary-classic-desings-for-bookshelves-in-delhi-gurgaon-noida-india (1).jpg');background-position: center;">
         
       </div>
       <nav>
         <div class="container">
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li>Structural Renovation</li>
+            <li>Bookshelf Dealers</li>
           </ol>
         </div>
       </nav>
@@ -45,7 +45,7 @@
                             <div class="row">
                                 <div class="col-lg-6">
                                   <div class="portfolio-single-item image-border">
-                                      <img src="assets/img/Bed/best-designs-for-beds-wooden-beds-with-storage-side-tables-interior-designers-delhi-gurgaon-noida-india (7).jpg" class="img-fluid" alt="Design Indian Homes">
+                                      <img src="assets/img/Bookshelf-dealers/bookshelf-designs-modern-contemporary-classic-desings-for-bookshelves-in-delhi-gurgaon-noida-india (1).jpeg" class="img-fluid" alt="Design Indian Homes">
                                   </div>
                                 </div>
                                 <div class="col-lg-6">
@@ -155,25 +155,7 @@
     </div>
 </div>
 <!-- End Item -->
-<!-- Start Item -->
-<div class="col-lg-4 portfolio-item">
-    <div class="image-border">
-        <div class="portfolio-item-content">
-            <img src="assets/img/Bookshelf-dealers/bookshelf-designs-modern-contemporary-classic-desings-for-bookshelves-in-delhi-gurgaon-noida-india (1).jpeg" alt="Design Indian Homes" class="img-fluid">
-            <div class="img-overlay text-center">
-                <div class="img-overlay-content">
-                    <div class="portfolio-icon">
-                        <a href="javascript:void();" type="button" data-toggle="modal" data-target="#portfolio-single"><i class="bi-link"></i></a>
-                        <a href="assets/img/Bookshelf-dealers/bookshelf-designs-modern-contemporary-classic-desings-for-bookshelves-in-delhi-gurgaon-noida-india (1).jpeg" class="js-zoom-gallery">
-                            <i class="bi-search"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Item -->
+
 <!-- Start Item -->
 <div class="col-lg-4 portfolio-item">
     <div class="image-border">
@@ -193,25 +175,7 @@
     </div>
 </div>
 <!-- End Item -->
-<!-- Start Item -->
-<div class="col-lg-4 portfolio-item">
-    <div class="image-border">
-        <div class="portfolio-item-content">
-            <img src="assets/img/Bookshelf-dealers/bookshelf-designs-modern-contemporary-classic-desings-for-bookshelves-in-delhi-gurgaon-noida-india (2).jpeg" alt="Design Indian Homes" class="img-fluid">
-            <div class="img-overlay text-center">
-                <div class="img-overlay-content">
-                    <div class="portfolio-icon">
-                        <a href="javascript:void();" type="button" data-toggle="modal" data-target="#portfolio-single"><i class="bi-link"></i></a>
-                        <a href="assets/img/Bookshelf-dealers/bookshelf-designs-modern-contemporary-classic-desings-for-bookshelves-in-delhi-gurgaon-noida-india (2).jpeg" class="js-zoom-gallery">
-                            <i class="bi-search"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Item -->
+
 <!-- Start Item -->
 <div class="col-lg-4 portfolio-item">
     <div class="image-border">
@@ -349,6 +313,25 @@
 <div class="col-lg-4 portfolio-item">
     <div class="image-border">
         <div class="portfolio-item-content">
+            <img src="assets/img/Bookshelf-dealers/bookshelf-designs-modern-contemporary-classic-desings-for-bookshelves-in-delhi-gurgaon-noida-india (2).jpeg" alt="Design Indian Homes" class="img-fluid">
+            <div class="img-overlay text-center">
+                <div class="img-overlay-content">
+                    <div class="portfolio-icon">
+                        <a href="javascript:void();" type="button" data-toggle="modal" data-target="#portfolio-single"><i class="bi-link"></i></a>
+                        <a href="assets/img/Bookshelf-dealers/bookshelf-designs-modern-contemporary-classic-desings-for-bookshelves-in-delhi-gurgaon-noida-india (2).jpeg" class="js-zoom-gallery">
+                            <i class="bi-search"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Item -->
+<!-- Start Item -->
+<div class="col-lg-4 portfolio-item">
+    <div class="image-border">
+        <div class="portfolio-item-content">
             <img src="assets/img/Bookshelf-dealers/top-bookshelf-manufactuers-dealers-in-delhi-gurgaon-noida-india (2).jpeg" alt="Design Indian Homes" class="img-fluid">
             <div class="img-overlay text-center">
                 <div class="img-overlay-content">
@@ -431,6 +414,25 @@
                     <div class="portfolio-icon">
                         <a href="javascript:void();" type="button" data-toggle="modal" data-target="#portfolio-single"><i class="bi-link"></i></a>
                         <a href="assets/img/Bookshelf-dealers/top-bookshelf-manufactuers-dealers-in-delhi-gurgaon-noida-india (5).jpg" class="js-zoom-gallery">
+                            <i class="bi-search"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Item -->
+<!-- Start Item -->
+<div class="col-lg-4 portfolio-item">
+    <div class="image-border">
+        <div class="portfolio-item-content">
+            <img src="assets/img/Bookshelf-dealers/bookshelf-designs-modern-contemporary-classic-desings-for-bookshelves-in-delhi-gurgaon-noida-india (1).jpeg" alt="Design Indian Homes" class="img-fluid">
+            <div class="img-overlay text-center">
+                <div class="img-overlay-content">
+                    <div class="portfolio-icon">
+                        <a href="javascript:void();" type="button" data-toggle="modal" data-target="#portfolio-single"><i class="bi-link"></i></a>
+                        <a href="assets/img/Bookshelf-dealers/bookshelf-designs-modern-contemporary-classic-desings-for-bookshelves-in-delhi-gurgaon-noida-india (1).jpeg" class="js-zoom-gallery">
                             <i class="bi-search"></i>
                         </a>
                     </div>
