@@ -82,9 +82,6 @@
         <li><a href="#">Contact us</a></li>
         <li><a href="#">FAQs</a></li>
       </ul>
-    </div>
-
-    <div class="col-lg-3 col-md-12 footer-links">
       <h4>The Design Journal</h4>
       <ul>
         <li><a href="#">Buying Guides</a></li>
@@ -93,6 +90,11 @@
         <li><a href="#">Interiors By HomeLane</a></li>
         <li><a href="#">HomeLane in Your City</a></li>
       </ul>
+    </div>
+
+    <div class="col-lg-3 col-md-12 footer-links">
+      
+      <img src="assets/img/homes-gif-logo-optimize.gif" class="img-fluid" alt="logo">
     </div>
 
   </div>

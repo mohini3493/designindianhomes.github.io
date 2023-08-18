@@ -29,7 +29,7 @@
           <div class="col-lg-12">
             <div class="package-list justify-content-md-center">
               <div class="offer-list offerMainaAllfloat">
-                  <a href="#">
+                  <a href="#99">
                     <div class="featured_img">
                         <img decoding="async" class="non-hover-img" src="assets/img/largest-architect-interior-designing-brand-in-delhi-gurgaon-noida-india.jpg">
                         <div class="offer-sec">
@@ -46,7 +46,7 @@
               </div>
               <a href="#"> </a>
               <div class="offer-list offerMainaAllfloat">
-                  <a href="#">
+                  <a href="#100">
                     <div class="featured_img">
                         <img decoding="async" class="non-hover-img" src="assets/img/indias-top-interiors-architect-company-in-delhi-gurgaon-noida-india.jpg">
                         <div class="offer-sec">
@@ -63,7 +63,7 @@
               </div>
               <a href="#"> </a>
               <div class="offer-list offerMainaAllfloat">
-                  <a href="#">
+                  <a href="#101">
                     <div class="featured_img">
                         <img decoding="async" class="non-hover-img" src="assets/img/best-interior-architect-brand-in-india.jpg">
                         <div class="offer-sec">
