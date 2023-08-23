@@ -89,109 +89,109 @@
       </div>
 
       <div class="row gy-4">
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="Polish.php">
             <img src="assets/img/wooden polishing.jpg" class="img-fluid rounded-4 mb-4" alt="polishing">
             <p>wooden polishing</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="Flooring.php">
             <img src="assets/img/wooden flooring.jpg" class="img-fluid rounded-4 mb-4" alt="flooring">
             <p>wooden flooring</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="#">
             <img src="assets/img/wall pannaling.jpg" class="img-fluid rounded-4 mb-4" alt="pannaling">
             <p>wall pannaling</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="Vertical-Garden.php">
             <img src="assets/img/Vertical Garden.jpg" class="img-fluid rounded-4 mb-4" alt="Garden">
             <p>Vertical Garden</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="Upvc.php">
             <img src="assets/img/upvc window.jpg" class="img-fluid rounded-4 mb-4" alt="upvc">
             <p>upvc window</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="Tiling.php">
             <img src="assets/img/tiling.jpg" class="img-fluid rounded-4 mb-4" alt="tiling">
             <p>tiling</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="Sofa.php">
             <img src="assets/img/sofa.jpg" class="img-fluid rounded-4 mb-4" alt="sofa">
             <p>sofa</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="Pop-Design.php">
             <img src="assets/img/pop.jpg" class="img-fluid rounded-4 mb-4" alt="pop">
             <p>pop</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="Plumbing.php">
             <img src="assets/img/plumbing.jpg" class="img-fluid rounded-4 mb-4" alt="plumbing">
             <p>plumbing</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="modular-kitchens-wardrobes-renovation.php">
             <img src="assets/img/kitchen renovation.jpg" class="img-fluid rounded-4 mb-4" alt="renovation">
             <p>kitchen renovation</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="top-Interior-designers.php">
             <img src="assets/img/Interior Lightening.jpg" class="img-fluid rounded-4 mb-4" alt="Lightening">
             <p>Interior Lightening</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="Glass-partition.php">
             <img src="assets/img/glass partition.jpg" class="img-fluid rounded-4 mb-4" alt="partition">
             <p>glass partition</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="#">
             <img src="assets/img/exterior cladding.jpg" class="img-fluid rounded-4 mb-4" alt="cladding">
             <p>exterior cladding</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="Electrcian.php">
             <img src="assets/img/electric.jpg" class="img-fluid rounded-4 mb-4" alt="electric">
             <p>electric</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="Door.php">
             <img src="assets/img/door.jpg" class="img-fluid rounded-4 mb-4" alt="door">
             <p>door</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="Bed.php">
             <img src="assets/img/beds.jpg" class="img-fluid rounded-4 mb-4" alt="beds">
             <p>beds</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="Bedroom-designing.php">
             <img src="assets/img/bedroomrenovation.jpg" class="img-fluid rounded-4 mb-4" alt="bedroom">
             <p>bedroom renovation</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="Bathroom-renovation.php">
             <img src="assets/img/bathroom renovation.jpg" class="img-fluid rounded-4 mb-4" alt="bathroom">
             <p>bathroom renovation</p>
@@ -211,35 +211,35 @@
       </div>
 
       <div class="row gy-4">
-        <div class="col-lg-3">
+        <div class="col-lg-3 col-6">
             <img src="assets/img/icon1.png" class="img-fluid mb-2" alt="whyimg">
             <p>On Time Delivery</p>
         </div>
-        <div class="col-lg-3">
+        <div class="col-lg-3 col-6">
             <img src="assets/img/icon2.png" class="img-fluid mb-2" alt="whyimg">
             <p>1609+ Happy Homes</p>
         </div>
-        <div class="col-lg-3">
+        <div class="col-lg-3 col-6">
             <img src="assets/img/icon3.png" class="img-fluid mb-2" alt="whyimg">
             <p>81+ Inhouse Architects & Interior Pro's</p>
         </div>
-        <div class="col-lg-3">
+        <div class="col-lg-3 col-6">
             <img src="assets/img/icon4.png" class="img-fluid mb-2" alt="whyimg">
             <p>End To End Interiors & Structure Building</p>
         </div>
-        <div class="col-lg-3">
+        <div class="col-lg-3 col-6">
             <img src="assets/img/icon5.png" class="img-fluid mb-2" alt="whyimg">
             <p>Warranty Direct from Source</p>
         </div>
-        <div class="col-lg-3">
+        <div class="col-lg-3 col-6">
             <img src="assets/img/icon6.png" class="img-fluid mb-2" alt="whyimg">
             <p>Professional Personnel</p>
         </div>
-        <div class="col-lg-3">
+        <div class="col-lg-3 col-6">
             <img src="assets/img/icon7.png" class="img-fluid mb-2" alt="whyimg">
             <p>In-House Modular Manufacturing</p>
         </div>
-        <div class="col-lg-3">
+        <div class="col-lg-3 col-6">
             <img src="assets/img/icon8.png" class="img-fluid mb-2" alt="whyimg">
             <p>Multiple Quality Checks</p>
         </div>
@@ -318,22 +318,22 @@
 
       <div class="row gy-4">
         <div class="col-lg-3">
-            <img src="assets/img/Contactless.jpg" class="img-fluid rounded-4 mb-4" alt="Contactless">
+            <img src="assets/img/Contactless.jpg" class="img-fluid rounded-4" alt="Contactless">
             <h3>Contactless Experience</h3>
             <p>No stepping out. Design your home interiors from the safety and comfort of your home.</p>
         </div>
         <div class="col-lg-3">
-            <img src="assets/img/Expertise.jpg" class="img-fluid rounded-4 mb-4" alt="Expertise">
+            <img src="assets/img/Expertise.jpg" class="img-fluid rounded-4" alt="Expertise">
             <h3>Online Expertise</h3>
             <p>Connect with our 600+ designers virtually and explore designs online.</p>
         </div>
         <div class="col-lg-3">
-            <img src="assets/img/workroom_3.jpg" class="img-fluid rounded-4 mb-4" alt="live3D">
+            <img src="assets/img/workroom_3.jpg" class="img-fluid rounded-4" alt="live3D">
             <h3>Live 3D Designs</h3>
             <p>Explore life-like 3D designs online that are made for your floor plan.</p>
         </div>
         <div class="col-lg-3">
-            <img src="assets/img/kitchen1.jpg" class="img-fluid rounded-4 mb-4" alt="Pricing">
+            <img src="assets/img/kitchen1.jpg" class="img-fluid rounded-4" alt="Pricing">
             <h3>Instant Pricing</h3>
             <p>Enjoy complete price transparency and stay within budget.</p>
         </div>
@@ -606,7 +606,7 @@
   </section><!-- End 6 steps Section -->
 
   <!-- ======= End-to-end Section ======= -->
-  <section>
+  <section class="End-to-end-mob">
     <div class="container" data-aos="fade-up">
 
       <div class="section-header">
@@ -968,16 +968,16 @@
       </div>
 
       <div class="row gy-4">
-        <div class="col-lg-3">
+        <div class="col-lg-3 col-6">
             <img src="assets/img/b10.png" class="img-fluid mb-4" alt="homes">
         </div>
-        <div class="col-lg-3">
+        <div class="col-lg-3 col-6">
             <img src="assets/img/b10.png" class="img-fluid mb-4" alt="homes">
         </div>
-        <div class="col-lg-3">
+        <div class="col-lg-3 col-6">
             <img src="assets/img/b10.png" class="img-fluid mb-4" alt="homes">
         </div>
-        <div class="col-lg-3">
+        <div class="col-lg-3 col-6">
             <img src="assets/img/b10.png" class="img-fluid mb-4" alt="homes">
         </div>
       </div>
@@ -1117,85 +1117,85 @@
       </div>
 
       <div class="row gy-4">
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="Structural-Renovation.php">
             <img src="assets/img/Structural Renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
             <p>Structural Renovation</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="top-Interior-designers.php">
             <img src="assets/img/Interior Renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
             <p>Interior Renovation</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="Bedroom-designing.php">
             <img src="assets/img/Bedroom Renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
             <p>Bedroom Renovation</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="#">
             <img src="assets/img/Lounge Renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
             <p>Lounge Renovation</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="Bathroom-renovation.php">
             <img src="assets/img/bathroom renovation1.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
             <p>Bathroom Renovation</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="Terrace-renovation.php">
             <img src="assets/img/terrace renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
             <p>Terrace Renovations</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="Living-room.php">
             <img src="assets/img/Living Room Renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
             <p>Living Room Renovation</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="modular-kitchens-wardrobes-renovation.php">
             <img src="assets/img/SPA renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
             <p>Kitchen & Wardrobe Renovation</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="#">
             <img src="assets/img/mandir renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
             <p>Mandir Room Renovations</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="Gym-Spa.php">
             <img src="assets/img/GYM & SPA renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
             <p>Gym's & Spa's Renovations</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="Hotel-renovation.php">
             <img src="assets/img/Hotel Renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
             <p>Hotel Renovation</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="Farmhouse-renovations.php">
             <img src="assets/img/Farmhouse Renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
             <p>FarmHouse Renovations</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="best-banquet-designers.php">
             <img src="assets/img/banquet renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
             <p>Banquets Renovation</p>
           </a>
         </div>
-        <div class="col-lg-2">
+        <div class="col-lg-2 col-6">
           <a href="top-villa-designers.php">
             <img src="assets/img/Villa renovation.jpg" class="img-fluid rounded-4 mb-4" alt="End To End Renovation">
             <p>Villa Renovations</p>

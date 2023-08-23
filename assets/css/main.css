@@ -1145,6 +1145,51 @@ section {
     left: auto;
   }
 }
+@media (max-width: 480px){
+  .stay-box img{
+    margin: 0 auto 25px;
+    display: block;
+  }
+  .steps-box .tab-content{
+    width: 85% !important;
+  }
+  .End-to-end-mob{
+    padding-top: 300px;
+  }
+  .end-to-end a {
+    margin: 10px !important;
+    width: 25% !important;
+}
+.offerMainaAllfloat {
+  width: 100% !important;
+  padding-bottom: 30px !important;
+}
+.strip-list .list-box {
+  align-items: flex-start !important;
+  flex-direction: column;
+}
+.strip-list .list-box .single-box{
+  margin-bottom: 20px;
+}
+.book-call .bigcta span.h2 {
+  font-size: 2rem !important;
+}
+.book-call .bigcta {
+  padding: 4%;
+}
+.book-call .bigcta span.p {
+  font-size: 3vw !important;
+}
+.steps-box ul.tabs li{
+  margin-right: 10px !important;
+}
+.working-days-box-section {
+  flex-direction: column;
+}
+.working-days-box-section .single-sec {
+  max-width: 100% !important;
+}
+}
 
 /*--------------------------------------------------------------
 # Portfolio Section
