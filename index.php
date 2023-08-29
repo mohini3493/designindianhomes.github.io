@@ -469,7 +469,7 @@
     <div class="container" data-aos="fade-up">
 
       <div class="section-header">
-        <h2>Best Selling Kitchens</h2>
+        <h2>Best Trending Kitchens</h2>
         <a href="#">see all <i class="bi bi-arrow-right"></i></a>
       </div>
 
@@ -514,7 +514,97 @@
     <div class="container" data-aos="fade-up">
 
       <div class="section-header">
-        <h2>Best Selling Wardrobes</h2>
+        <h2>Best Trending Wardrobes</h2>
+        <a href="#">see all <i class="bi bi-arrow-right"></i></a>
+      </div>
+
+      <div class="slides-selling swiper" data-aos="fade-up" data-aos-delay="100">
+        <div class="swiper-wrapper">
+
+          <div class="swiper-slide">
+            <img src="assets/img/banner-5.jpg" class="" alt="">
+          </div><!-- End testimonial item -->
+
+          <div class="swiper-slide">
+            <img src="assets/img/banner-5.jpg" class="" alt="">
+          </div><!-- End testimonial item -->
+
+          <div class="swiper-slide">
+            <img src="assets/img/banner-5.jpg" class="" alt="">
+          </div><!-- End testimonial item -->
+
+          <div class="swiper-slide">
+            <img src="assets/img/banner-5.jpg" class="" alt="">
+          </div><!-- End testimonial item -->
+
+          <div class="swiper-slide">
+            <img src="assets/img/banner-5.jpg" class="" alt="">
+          </div><!-- End testimonial item -->
+
+          <div class="swiper-slide">
+            <img src="assets/img/banner-5.jpg" class="" alt="">
+          </div><!-- End testimonial item -->
+
+        </div>
+        <!-- Navigation buttons -->
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+      </div>
+
+    </div>
+  </section><!-- End Best Selling Section -->
+
+  <!-- ======= Best Selling Section ======= -->
+  <section class="best-selling">
+    <div class="container" data-aos="fade-up">
+
+      <div class="section-header">
+        <h2>Best Trending Interiors</h2>
+        <a href="#">see all <i class="bi bi-arrow-right"></i></a>
+      </div>
+
+      <div class="slides-selling swiper" data-aos="fade-up" data-aos-delay="100">
+        <div class="swiper-wrapper">
+
+          <div class="swiper-slide">
+            <img src="assets/img/banner-5.jpg" class="" alt="">
+          </div><!-- End testimonial item -->
+
+          <div class="swiper-slide">
+            <img src="assets/img/banner-5.jpg" class="" alt="">
+          </div><!-- End testimonial item -->
+
+          <div class="swiper-slide">
+            <img src="assets/img/banner-5.jpg" class="" alt="">
+          </div><!-- End testimonial item -->
+
+          <div class="swiper-slide">
+            <img src="assets/img/banner-5.jpg" class="" alt="">
+          </div><!-- End testimonial item -->
+
+          <div class="swiper-slide">
+            <img src="assets/img/banner-5.jpg" class="" alt="">
+          </div><!-- End testimonial item -->
+
+          <div class="swiper-slide">
+            <img src="assets/img/banner-5.jpg" class="" alt="">
+          </div><!-- End testimonial item -->
+
+        </div>
+        <!-- Navigation buttons -->
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+      </div>
+
+    </div>
+  </section><!-- End Best Selling Section -->
+
+  <!-- ======= Best Selling Section ======= -->
+  <section class="best-selling">
+    <div class="container" data-aos="fade-up">
+
+      <div class="section-header">
+        <h2>Best Trending Structures</h2>
         <a href="#">see all <i class="bi bi-arrow-right"></i></a>
       </div>
 
@@ -692,7 +782,7 @@
     <div class="container" data-aos="fade-up">
 
       <div class="section-header">
-        <h2>Inspiring Interior</h2>
+        <h2>Why We Deliver Inspiring Interior?</h2>
       </div>
 
       <div class="row gy-4">
@@ -1246,7 +1336,7 @@
         <div class="col-lg-12">
           <div class="homeText">
             <h2>Buy Furniture Online at WoodenStreet- India’s One-Stop Solution for All Your Needs</h2>
-            <p>Getting wooden furniture online in India, which perfectly blends with your home decor is now easy. Wooden Street provides you with ready-made and customized&nbsp;<a href="https://www.woodenstreet.com/solid-wood-furniture"><u>solid wood furniture</u></a>&nbsp;online. At WoodenStreet, we are committed to serving our customers an exclusive range of home furniture products like&nbsp;<a href="https://www.woodenstreet.com/sofa-sets"><u>sofa set</u></a>, coffee tables, wardrobes, dining tables, all crafted from premium-quality solid wood. Along with this, you can explore our home decor range which includes wall art, photo frames, indoor plants, tableware, glassware, kitchen organizer and many more which are just few clicks away from you. We offer you a huge variety of online furniture to choose from. You can browse among various designs, dimensions, colors and finish options, all at your convenience. From modern to traditional styles, contemporary to loft ones, space saving furniture pieces to huge ones, we provide every type of modern furniture online to match your home needs. Take a pick from the exquisite collection of home furniture or get it customized as per your requirements, all possible at WoodenStreet.</p>
+            <p>Getting wooden furniture online in India, which perfectly blends with your home decor is now easy. Wooden Street provides you with ready-made and customized&nbsp;<a href="https://designindianhomes.com/solid-wood-furniture"><u>solid wood furniture</u></a>&nbsp;online. At WoodenStreet, we are committed to serving our customers an exclusive range of home furniture products like&nbsp;<a href="https://designindianhomes.com/sofa-sets"><u>sofa set</u></a>, coffee tables, wardrobes, dining tables, all crafted from premium-quality solid wood. Along with this, you can explore our home decor range which includes wall art, photo frames, indoor plants, tableware, glassware, kitchen organizer and many more which are just few clicks away from you. We offer you a huge variety of online furniture to choose from. You can browse among various designs, dimensions, colors and finish options, all at your convenience. From modern to traditional styles, contemporary to loft ones, space saving furniture pieces to huge ones, we provide every type of modern furniture online to match your home needs. Take a pick from the exquisite collection of home furniture or get it customized as per your requirements, all possible at WoodenStreet.</p>
             <h2>Explore Different Products at WoodenStreet for Your Humble Abode</h2>
             <p>WoodenStreet houses an extensive range of furniture and furnishing, available in various designs to meet every liking. Once you visit our furniture store or check our website, you can understand how diverse how designs are. Here's a list of categories that you can expect on visiting our furniture stores or website:</p>
             <h3>Furniture</h3>
@@ -1306,11 +1396,11 @@
             <h2>Select from the Wide Range of Furniture Online at WoodenStreet</h2>
             <p>Keeping up with the needs of modern apartments, we design artistic wooden furniture units with various additional features. Not only they provide comfort to the user but also give multiple advantages.</p>
             <h3>Living Room</h3>
-            <p>Living Room is the heart of the home. So, embellishing it with the teak wood that captures everyone's sight is essential. At Wooden Street, you will find a wonderful collection of breathtaking pieces that are perfect to adorn the living room. Whether you are looking for chairs like&nbsp;<a href="https://www.woodenstreet.com/lounge-chairs"><u>lounge chairs</u></a>,&nbsp;<a href="https://www.woodenstreet.com/rocking-chairs"><u>rocking chair</u></a>,&nbsp;<a href="https://www.woodenstreet.com/office-chairs"><u>office chair</u></a>,&nbsp;<a href="https://www.woodenstreet.com/sofa-chairs"><u>sofa chair</u></a>,&nbsp;<a href="https://www.woodenstreet.com/computer-chairs"><u>computer chair</u></a>,&nbsp;<a href="https://www.woodenstreet.com/executive-chairs"><u>executive chair</u></a>,&nbsp;<a href="https://www.woodenstreet.com/ergonomic-chairs"><u>ergonomic chair</u></a>,&nbsp;<a href="https://www.woodenstreet.com/revolving-chairs"><u>revolving chair</u></a>,&nbsp;<a href="https://www.woodenstreet.com/folding-chair"><u>folding chairs</u></a>,&nbsp;<a href="https://www.woodenstreet.com/recliners"><u>recliners</u></a>, coffee tables, sofa, fabric sofa,&nbsp;<a href="https://www.woodenstreet.com/office-tables"><u>office tables</u></a>, 2 seater sofa,&nbsp;<a href="https://www.woodenstreet.com/couches"><u>couches</u></a>,&nbsp;<a href="https://www.woodenstreet.com/bookshelves"><u>bookshelves</u></a>,&nbsp;<a href="https://www.woodenstreet.com/office-desk"><u>office desk</u></a>,&nbsp;<a href="https://www.woodenstreet.com/rugs-and-carpets"><u>carpets</u></a>,&nbsp;<a href="https://www.woodenstreet.com/artificial-flowers"><u>artificial flowers</u></a>&nbsp;or the wall shelves, we have it all.</p>
+            <p>Living Room is the heart of the home. So, embellishing it with the teak wood that captures everyone's sight is essential. At Wooden Street, you will find a wonderful collection of breathtaking pieces that are perfect to adorn the living room. Whether you are looking for chairs like&nbsp;<a href="https://designindianhomes.com/lounge-chairs"><u>lounge chairs</u></a>,&nbsp;<a href="https://designindianhomes.com/rocking-chairs"><u>rocking chair</u></a>,&nbsp;<a href="https://designindianhomes.com/office-chairs"><u>office chair</u></a>,&nbsp;<a href="https://designindianhomes.com/sofa-chairs"><u>sofa chair</u></a>,&nbsp;<a href="https://designindianhomes.com/computer-chairs"><u>computer chair</u></a>,&nbsp;<a href="https://designindianhomes.com/executive-chairs"><u>executive chair</u></a>,&nbsp;<a href="https://designindianhomes.com/ergonomic-chairs"><u>ergonomic chair</u></a>,&nbsp;<a href="https://designindianhomes.com/revolving-chairs"><u>revolving chair</u></a>,&nbsp;<a href="https://designindianhomes.com/folding-chair"><u>folding chairs</u></a>,&nbsp;<a href="https://designindianhomes.com/recliners"><u>recliners</u></a>, coffee tables, sofa, fabric sofa,&nbsp;<a href="https://designindianhomes.com/office-tables"><u>office tables</u></a>, 2 seater sofa,&nbsp;<a href="https://designindianhomes.com/couches"><u>couches</u></a>,&nbsp;<a href="https://designindianhomes.com/bookshelves"><u>bookshelves</u></a>,&nbsp;<a href="https://designindianhomes.com/office-desk"><u>office desk</u></a>,&nbsp;<a href="https://designindianhomes.com/rugs-and-carpets"><u>carpets</u></a>,&nbsp;<a href="https://designindianhomes.com/artificial-flowers"><u>artificial flowers</u></a>&nbsp;or the wall shelves, we have it all.</p>
             <h3>Bedroom</h3>
-            <p>A comfortable bedroom is everyone's need. Who doesn't want a bed that is utterly comfortable and looks ravishing at the same time? Well, do not forget about the other accessories such as&nbsp;<a href="https://www.woodenstreet.com/mattress"><u>mattress</u></a>. We have all the furniture you need for a well-equipped bedroom like the bed with storage,&nbsp;<a href="https://www.woodenstreet.com/single-beds"><u>single bed</u></a>,&nbsp;<a href="https://www.woodenstreet.com/double-beds"><u>double bed</u></a>,&nbsp;<a href="https://www.woodenstreet.com/divan-beds"><u>divan bed</u></a>,&nbsp;<a href="https://www.woodenstreet.com/wooden-tray"><u>wooden tray</u></a>, dressing table,&nbsp;<a href="https://www.woodenstreet.com/bunk-beds"><u>bunk bed</u></a>, cupboards, and required storage units. If you too are looking to buy bedroom furniture, then Wooden Street is your destination.</p>
+            <p>A comfortable bedroom is everyone's need. Who doesn't want a bed that is utterly comfortable and looks ravishing at the same time? Well, do not forget about the other accessories such as&nbsp;<a href="https://designindianhomes.com/mattress"><u>mattress</u></a>. We have all the furniture you need for a well-equipped bedroom like the bed with storage,&nbsp;<a href="https://designindianhomes.com/single-beds"><u>single bed</u></a>,&nbsp;<a href="https://designindianhomes.com/double-beds"><u>double bed</u></a>,&nbsp;<a href="https://designindianhomes.com/divan-beds"><u>divan bed</u></a>,&nbsp;<a href="https://designindianhomes.com/wooden-tray"><u>wooden tray</u></a>, dressing table,&nbsp;<a href="https://designindianhomes.com/bunk-beds"><u>bunk bed</u></a>, cupboards, and required storage units. If you too are looking to buy bedroom furniture, then Wooden Street is your destination.</p>
             <h3>Dining Room</h3>
-            <p>A happy meal time can be relished in the dining area of the house. A room occupied with a chic dining table,&nbsp;<a href="https://www.woodenstreet.com/dining-chairs"><u>dining chairs</u></a>,&nbsp;<a href="https://www.woodenstreet.com/kitchen-cabinets"><u>kitchen cabinets</u></a>,&nbsp;<a href="https://www.woodenstreet.com/crockery-units"><u>crockery units</u></a>,&nbsp;<a href="https://www.woodenstreet.com/extendable-dining-table-sets"><u>extendable dining tables</u></a>, and sideboards make it a complete one for a perfect wine and dine.</p>
+            <p>A happy meal time can be relished in the dining area of the house. A room occupied with a chic dining table,&nbsp;<a href="https://designindianhomes.com/dining-chairs"><u>dining chairs</u></a>,&nbsp;<a href="https://designindianhomes.com/kitchen-cabinets"><u>kitchen cabinets</u></a>,&nbsp;<a href="https://designindianhomes.com/crockery-units"><u>crockery units</u></a>,&nbsp;<a href="https://designindianhomes.com/extendable-dining-table-sets"><u>extendable dining tables</u></a>, and sideboards make it a complete one for a perfect wine and dine.</p>
             <h3>Study Room</h3>
             <p>An exclusive range of the study room furniture is available at Wooden Street. Here, you will get the that complies with your needs without acquiring much space. The foldable study tables, end tables, computer table, are the multifunctional furniture pieces to have.</p>
             <h3>Kids Room</h3>
@@ -1322,7 +1412,7 @@
             <h3>Restaurant</h3>
             <p>Besides home, we also deal in commercial units too. The entire restaurant unit like a bar stool, bar trolley is available here for you to choose from.</p>
             <h3>Home Decor</h3>
-            <p>After selecting the right furniture online, there is still some spark missing, which can be added through our&nbsp;<a href="https://www.woodenstreet.com/home-decors"><u>home decor</u></a>&nbsp;items. Be it is showing your beautiful moments or spreading natural vibes, serving your guests or brightening your home, here are elements like photo frames, indoor plants, tableware, lamps,&nbsp;<a href="https://www.woodenstreet.com/wall-mirrors"><u>wall mirrors</u></a>&nbsp;,&nbsp;<a href="https://www.woodenstreet.com/mirrors"><u>mirrors</u></a>&nbsp;and many more things waiting for you. Not only this, you can also browse the new&nbsp;<a href="https://www.woodenstreet.com/gift"><u>gifts</u></a>&nbsp;section.&nbsp;</p>
+            <p>After selecting the right furniture online, there is still some spark missing, which can be added through our&nbsp;<a href="https://designindianhomes.com/home-decors"><u>home decor</u></a>&nbsp;items. Be it is showing your beautiful moments or spreading natural vibes, serving your guests or brightening your home, here are elements like photo frames, indoor plants, tableware, lamps,&nbsp;<a href="https://designindianhomes.com/wall-mirrors"><u>wall mirrors</u></a>&nbsp;,&nbsp;<a href="https://designindianhomes.com/mirrors"><u>mirrors</u></a>&nbsp;and many more things waiting for you. Not only this, you can also browse the new&nbsp;<a href="https://designindianhomes.com/gift"><u>gifts</u></a>&nbsp;section.&nbsp;</p>
             <h2>WoodenStreet Experience Stores: Spot Our Presence PAN INDIA</h2>
             <p>WoodenStreet aims to reach every nook and corner of India by providing the finest quality furniture and decor at a valuable price. We have got 100+ experience stores all over India and are sure to double the count soon.</p>
             <p>In India, quality and design diversity is hard to find elements while furniture shopping. It's a tough call to rely on just any brand. WoodenStreet stands out of the crowd because of its experience and expertise of the audience. WoodenStreet aims to build back an India where natural resources provided for us all.</p>
@@ -1422,28 +1512,6 @@
 
     </div>
   </section><!-- End 5 boxes Section -->
-
-  <!-- ======= Last footer logos Section ======= -->
-  <section class="last-logos">
-    <div class="container" data-aos="fade-up">
-
-      <div class="last-logos-slider swiper">
-        <div class="swiper-wrapper align-items-center">
-          <div class="swiper-slide"><img src="assets/img/c1.png" class="img-fluid" alt="corporate logo"></div>
-          <div class="swiper-slide"><img src="assets/img/c2.png" class="img-fluid" alt="corporate logo"></div>
-          <div class="swiper-slide"><img src="assets/img/c3.png" class="img-fluid" alt="corporate logo"></div>
-          <div class="swiper-slide"><img src="assets/img/c4.png" class="img-fluid" alt="corporate logo"></div>
-          <div class="swiper-slide"><img src="assets/img/c5.png" class="img-fluid" alt="corporate logo"></div>
-          <div class="swiper-slide"><img src="assets/img/c6.png" class="img-fluid" alt="corporate logo"></div>
-          <div class="swiper-slide"><img src="assets/img/c7.png" class="img-fluid" alt="corporate logo"></div>
-          <div class="swiper-slide"><img src="assets/img/c8.png" class="img-fluid" alt="corporate logo"></div>
-          <div class="swiper-slide"><img src="assets/img/c9.png" class="img-fluid" alt="corporate logo"></div>
-          <div class="swiper-slide"><img src="assets/img/c10.png" class="img-fluid" alt="corporate logo"></div>
-        </div>
-      </div>
-
-    </div>
-  </section><!-- End Last footer logos Section -->
 
   <!-- ======= Review Section ======= -->
   <section class="reward-box">

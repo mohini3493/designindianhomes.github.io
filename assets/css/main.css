@@ -218,17 +218,18 @@ section {
   transition: all 0.5s;
   padding: 0;
   border-bottom: 1px solid #eee;
+  background: var(--color-primary);
 }
 .topbar .contact-info i {
   font-style: normal;
   line-height: 0;
 }
 .topbar a{
-  color: #000;
+  color: #fff;
   font-size: 12px;
 }
 .topbar a:hover{
-  color: var(--color-primary);
+  color: var(--color-secondary) !important;
 }
 
 .topbar .contact-info i a,
@@ -250,7 +251,7 @@ section {
 }
 
 .topbar .social-links a {
-  color: #000;
+  color: #fff;
   line-height: 0;
   transition: 0.3s;
   margin-left: 20px;
@@ -2792,6 +2793,9 @@ section {
 }
 .footer-bottom .footer_title:hover{
   color: var(--color-primary);
+}
+.top-picks .col-lg-2 {
+  width: 13.666667%;
 }
 .top-picks a{
   text-align: center;

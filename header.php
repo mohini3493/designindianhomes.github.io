@@ -36,7 +36,6 @@
   <section id="topbar" class="topbar d-flex align-items-center">
     <div class="container d-flex justify-content-center justify-content-md-between">
       <div class="contact-info d-flex align-items-center">
-      <a href="contact.php">Partner with HomeLane</a>
       <a href="review.php" class="ms-4">Refer and Earn</a>
       <a href="contact.php" class="ms-4">Join Us</a>
       </div>
@@ -56,14 +55,12 @@
       </a>
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a href="#">Design Gallery</a></li>
           <li><a href="modular-kitchen.php">Modular Kitchen</a></li>
           <li><a href="wardrobe-dealers.php">Wardrobe</a></li>
           <li><a href="Bedroom-designing.php">Bedroom</a></li>
           <li><a href="Living-room.php">Living Room</a></li>
           <li><a href="Bathroom.php">Bathroom</a></li>
           <li><a href="Residential-Offices.php">Homeoffice</a></li>
-          <li><a href="#">Space Saving Furniture</a></li>
         </ul>
         <a href="#" class="btn-get-free">Get Free Estimate</a>
       </nav><!-- .navbar -->
